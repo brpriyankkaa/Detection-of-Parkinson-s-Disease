@@ -1,6 +1,6 @@
 #  Parkinson’s Disease Detection using Machine Learning
 
-> Leveraging voice-based biomarkers and machine learning to detect Parkinson’s disease with high accuracy.
+Leveraging voice-based biomarkers and machine learning to detect Parkinson’s disease with high accuracy.
 
 ---
 
